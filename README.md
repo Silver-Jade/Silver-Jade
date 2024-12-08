@@ -3,7 +3,7 @@
 
 -  I’m currently learning python
 -  I’m looking to collaborate on ...
--  How to reach me 1418253945@qq.com
+-  How to reach me Din.H.bx3m5@outlook.com
 
 <!---
 Silver-Jade/Silver-Jade is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
